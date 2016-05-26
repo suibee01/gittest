@@ -1,3 +1,4 @@
 this is a git test.
 be funny.that is all right.
 It is easy.
+It is a add line.
